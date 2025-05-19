@@ -1,5 +1,3 @@
----
-
 ## 📌 Features
 
 * **Customer Segmentation**: Uses KMeans clustering to group users based on behavior (e.g., average order value and visits).

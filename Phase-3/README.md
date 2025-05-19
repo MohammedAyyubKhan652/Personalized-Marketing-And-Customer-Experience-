@@ -1,5 +1,3 @@
-Here’s a concise version of the README with just the **features**, **technologies used**, and **how it works**:
-
 ---
 
 ## 📌 Features

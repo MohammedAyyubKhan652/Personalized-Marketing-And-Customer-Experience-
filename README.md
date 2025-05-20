@@ -36,9 +36,6 @@ To build an intelligent web-based system that provides personalized product reco
 5. **IoT Simulation:** `/environment` API returns dynamic sensor-like data.
 
 ---
-Here’s a clean, ready-to-paste section for your `README.md` that explains how to install dependencies both in **Jupyter Notebook** and the **Terminal**:
-
----
 
 ## 📦 Installation
 

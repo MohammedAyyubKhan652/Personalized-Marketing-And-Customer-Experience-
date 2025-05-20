@@ -36,3 +36,37 @@ To build an intelligent web-based system that provides personalized product reco
 5. **IoT Simulation:** `/environment` API returns dynamic sensor-like data.
 
 ---
+Here’s a clean, ready-to-paste section for your `README.md` that explains how to install dependencies both in **Jupyter Notebook** and the **Terminal**:
+
+---
+
+## 📦 Installation
+
+### ✅ Option 1: In Jupyter Notebook
+
+Paste the following into a notebook cell to install all required packages:
+
+```python
+!pip install flask numpy pandas scikit-learn textblob
+!python -m textblob.download_corpora
+```
+
+---
+
+### ✅ Option 2: In Terminal
+
+Run this in your system terminal (Command Prompt, Bash, etc.):
+
+```bash
+pip install flask numpy pandas scikit-learn textblob
+python -m textblob.download_corpora
+```
+
+---
+
+These dependencies are needed for:
+
+* `Flask`: Web app and API routing
+* `NumPy`, `Pandas`: Data handling
+* `scikit-learn`: Machine learning models
+* `TextBlob`: Sentiment analysis
